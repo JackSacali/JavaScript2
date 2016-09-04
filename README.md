@@ -22,9 +22,9 @@
 * install [node.js and npm](https://nodejs.org/en/)
 * install standardJs: ```npm install standard``` and optionally a standardJs plugin for your editor.
 * install [github desktop](https://desktop.github.com/)
-** if you are on Linux, unfortunately there is not yet a github desktop app. However, there are these alternatives:
-*** see [this list](https://git-scm.com/downloads/guis) and search for 'linux' for some alternatives.
-*** [Git Kraken](https://www.gitkraken.com/) looks especially tasty!
+  * if you are on Linux, unfortunately there is not yet a github desktop app. However, there are these alternatives:
+    * see [this list](https://git-scm.com/downloads/guis) and search for 'linux' for some alternatives.
+    * [Git Kraken](https://www.gitkraken.com/) looks especially tasty!
 
 ### homework
 ------------
