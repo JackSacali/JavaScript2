@@ -1,6 +1,7 @@
 # JavaScript 2
 
 ## lecture 1
+------------
 * [SLIDES](http://slides.com/michahell/deck)
 
 ### reading
@@ -16,8 +17,8 @@
    | [jscs](http://jscs.info/)
    | [standardjs](http://standardjs.com/rules.html)
    
-### todo
---------
+### tooling
+-----------
 
 * install [node.js and npm](https://nodejs.org/en/)
 * install standardJs: ```npm install standard``` and optionally a standardJs plugin for your editor.
@@ -27,13 +28,15 @@
     * [Git Kraken](https://www.gitkraken.com/) looks especially tasty!
 
 ### homework
-------------
+-----------
 
 * FCC: first 4-7 intermediate algorithmic scripting assignments
 * FCC: start with intermediate frontend development project ([twitch.tv](http://www.nu.nl/]))
 
 ## lecture 2
+-----------
 * [SLIDES](http://slides.com/michahell/deck-3)
+
 ### reading
 -----------
 
@@ -42,7 +45,23 @@
   * study: [javascript equality table](https://dorey.github.io/JavaScript-Equality-Table/)
   * read about: [closures](https://developer.mozilla.org/en/docs/Web/JavaScript/Closures)
 
+### tooling
+-----------
+
 ### homework
 ------------
 
 * project ([twitch.tv](http://www.nu.nl/]))
+
+## lecture 3
+-----------
+
+### reading
+-----------
+
+### tooling
+-----------
+
+### homework
+------------
+
